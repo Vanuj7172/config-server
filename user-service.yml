@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: user-service
+
+app:
+  service-name: user-service
+  version: v1
